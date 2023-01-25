@@ -67,3 +67,9 @@ Dashboards in Power BI and Tableau. SQL
 https://www.linkedin.com/feed/update/urn:li:activity:6787394782198034432/
 
 # Works done regarding Data Analysis/ Data Science through courses and work staff.
+
+#### Data Analytics in Digital House
+I'm gonna post some of my works done during this course.
+
+1. This project was made with some class teammates, where we had to present to the rest of the course and simulate a debate, presenting information about energy and it's features associated focusing our research in Argentina
+2. 

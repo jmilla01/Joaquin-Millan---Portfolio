@@ -87,4 +87,14 @@ https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Supertienda_DH.
 
 https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Uber_dh.pbix
 
-5. 
+5. This dashboard was made to analyze causes of layoff in an specific dataset for an HR Department
+
+https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/HR_EJEMPLO_DH.pbix
+
+6. This dashboard shows an analysis of goverment bikes, real data of Buenos Aires in 2014.
+
+https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/BA_ECOBICIO_DESAFIO_DH.pbix
+
+7. This dashboards is from a very know dataset, Adventure works, analyzing it sells performance.
+
+https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Adventure_works_dh.pbix

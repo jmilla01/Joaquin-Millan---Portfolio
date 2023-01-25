@@ -92,12 +92,14 @@ This was a project made with a team that involved persons from the relevant area
 
 https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/BI_Export_AR.pbix
 
+This dashboard was also created as a new analysis tool for the new team that was divided and created to analyse B2B sales performance. Due to confidentiality and not access to the database i will post a PDF showing some visualizations of the pages developed for them
+
+https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/REPORTE%20B2B.pdf
+
 
 This dashboard has some changes due to confidential information, it was presented as an idea, to show to my bosses, how to analyze our distributors sells to their customers. This then turned into a project of analysing our distributors information, all in one dashboard, where we performed with a bigger team ETL to adapt our distributors information to our companies same language, and then created a big datawarehouse where we had joined all information to be analyzed. (I don't have this final dashboard due to not working more in the company and confidentiality information) but i will post the idea presented at the beginning.
 
 https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Dist_pr_ej.pbix
-
-
 
 #### Data Analytics in Digital House
 

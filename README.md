@@ -79,6 +79,9 @@ While our companies BI's area report was malfunctioning due to wrong integrated 
 
 https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Distribudores_adaptado.pbix
 
+#### Data Science in Digital House
+
+
 
 #### Business Intelligence Analyst - Pernod Ricard
 

@@ -72,4 +72,6 @@ https://www.linkedin.com/feed/update/urn:li:activity:6787394782198034432/
 I'm gonna post some of my works done during this course.
 
 1. This project was made with some class teammates, where we had to present to the rest of the course and simulate a debate, presenting information about energy and it's features associated focusing our research in Argentina
+https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/TP_DH.pbix
+
 2. 

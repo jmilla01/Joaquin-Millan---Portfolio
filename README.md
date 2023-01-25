@@ -75,5 +75,16 @@ I'm gonna post some of my works done during this course.
 
 https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/TP_DH.pbix
 
-2. This dashboard was presented on the course analysing Fifa dataset regarding the Playstation game and the stats.
+2. This dashboard was also made on group and presented on the course analysing Fifa dataset regarding the Playstation game and the stats.
 
+https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Fifa_dh.pbix
+
+3. This dashboard was presented to my classmates analyzing a store information.
+
+https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Supertienda_DH.pbix
+
+4. This dashboard was made analyzing a dataset from Uber and some features about drivers, where it was needed some KPI's to improve and suggestions to follow up and increase it's revenue.
+
+https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Uber_dh.pbix
+
+5. 

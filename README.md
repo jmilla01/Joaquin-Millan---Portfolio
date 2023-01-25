@@ -32,12 +32,12 @@ Created commercial reports that resulted in profit growth. Member of the team th
 Ran ad-hoc analyses to provide business insights to Pernod Ricard's teams. Supported current reporting structure, performing data analysis.
 
 #### Management Control Analyst - Pernod Ricard
-#### Ago 2018- May 2019
+#### Aug 2018- May 2019
 
 Reported P&L, made forecasting and companies budgeting. 
 
 #### Sales Representative - Johnson & Johnson. 
-#### Sep 2017-Ago 2018
+#### Sep 2017-Aug 2018
 
 In charge of the managing customers, selling Acuvue contact lenses to stores
 
@@ -45,14 +45,25 @@ In charge of the managing customers, selling Acuvue contact lenses to stores
 
 #### Data Science in Coder House. May 2022 – Dec 2022
 EDA - Machine learning modelling
+https://www.linkedin.com/feed/update/urn:li:activity:7018924839277080577/
+
+#### Data Analysis with Python in Humai. Oct 2022 – Nov 2022
+Data analysis
+https://www.linkedin.com/feed/update/urn:li:activity:7008425151474089984/
+
+#### Data Analytics with Power BI in Rockingdata. Aug 2022 – Oct 2022
+Data analysis
+https://www.linkedin.com/feed/update/urn:li:activity:6985582477633302529/
 
 #### Product Manager in Coder House. Jul 2022 – Sep 2022
 Product Development
+https://www.linkedin.com/feed/update/urn:li:activity:6978183912531333120/
 
 #### Data Science in Digital House. Aug 2021 – Mar 2022
 Machine learning modelling
 
 #### Data Analytics in Digital House. Sep 2020 – Mar 2021
 Dashboards in Power BI and Tableau. SQL
+https://www.linkedin.com/feed/update/urn:li:activity:6787394782198034432/
 
 # Works done regarding Data Analysis/ Data Science through courses and work staff.

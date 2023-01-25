@@ -79,6 +79,15 @@ While our companies BI's area report was malfunctioning due to wrong integrated 
 
 https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Distribudores_adaptado.pbix
 
+
+#### Business Intelligence Analyst - Pernod Ricard
+
+As a BI Analyst i was on charge of helping users to use information and encourage them to use our developed BI dashboards, for them to based their decisions on data and for them to create and take insights from data. That's why i developed a presentation for them to induce them
+
+https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Induccion_Power_BI.pdf
+
+
+
 #### Data Analytics in Digital House
 
 1. This project was made with some class teammates, where we had to present to the rest of the course and simulate a debate, presenting information about energy and it's features associated focusing our research in Argentina. In this dashboard we analyzed lot of different data sources, so we could developed and demonstarte the whole story.

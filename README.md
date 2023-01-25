@@ -2,9 +2,9 @@
 
 Outside of work, I am one of 7 siblings, very familiar with 6 nephews as well, and raised in Pilar, a city located north of Buenos Aires, Argentina. I am a person who really enjoys sports and spending time with friends. I am passionate about brain games, knowledge, photography and the beauty of nature.
 
-As a data scientist, I consider myself a person who is passionate about data and the power to discover patterns to uncover insights and drive business decisions. I've been learning and taking lot of courses to become a Data Scientist. 
-
 I have worked in various industries and fields, from different perspectives and with greater or lesser usability of the data, but always analyzing and basing ideas and taking insights with data, making decisions that helped me manage, count and demonstrate results.
+
+As a data scientist, I consider myself a person who is passionate about data and the power to discover patterns to uncover insights and drive business decisions. I've been learning and taking lot of courses to become a Data Scientist. 
 
 I seek to acquire knowledge and add value to an agile and dynamic organization, in which I can develop both professionally and personally.
 
@@ -67,7 +67,17 @@ Dashboards in Power BI and Tableau. SQL
 https://www.linkedin.com/feed/update/urn:li:activity:6787394782198034432/
 
 # Works done regarding Data Analysis/ Data Science through courses and work staff.
-I'm going to post some of my works done in courses and in work, to track my progress and diferrent appliances of my data skills.
+I'm going to post relevant works done in courses and in work, to track my progress and diferrent appliances of my data skills.
+
+#### Data Analytics in Rocking data
+
+I made this course, while working in Raizen, so i developed a dashboard used to analyze companies information about Sell in (what we sell to our distributors) and Sell out (what our distributors sell to salespoints), this dashboard might have some changes due to confidential reasons. 
+
+In this project, we got for sell in information our company internal data repository and for sell out an external repository host of information. Regarding sell out information we performed some ETL of data so we could match distributors information to talk the same language between them and with our nomenclature (for example: transformation of distributors SKUs codes to my companies name and information associated to them).
+
+While our companies BI's area report was malfunctioning due to wrong integrated information, numbers where not matching. That's why i developed this dashboard to analyze proper information all together and also because i got on charge of developing new visualizations that helped and encorauged me and our team, to manage relationships with customers with more accurate and efficient information.
+
+https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Distribudores_adaptado.pbix
 
 #### Data Analytics in Digital House
 

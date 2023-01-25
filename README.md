@@ -86,6 +86,17 @@ As a BI Analyst i was on charge of helping users to use information and encourag
 
 https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Induccion_Power_BI.pdf
 
+This dashboard was developed for the BI-EXPORT team, before they didn't had any dashboards, so all their analyses were made in Excel. This dashboard was developed for them so they could manage better their information and using the power of such a good analytical tool such as Power BI. 
+
+This was a project made with a team that involved persons from the relevant areas, the export manager, and IT data engineer, me as a product manager and development of dashboard visualizations. We' ve developed and unite information from diferent sources, made some useful changes to the information that was uploaded on the system, made the connection to Power BI and then created and updated visualizations based on what the export team wanted to see and analyze.
+
+https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/BI_Export_AR.pbix
+
+
+This dashboard has some changes due to confidential information, it was presented as an idea, to show to my bosses, how to analyze our distributors sells to their customers. This then turned into a project of analysing our distributors information, all in one dashboard, where we performed with a bigger team ETL to adapt our distributors information to our companies same language, and then created a big datawarehouse where we had joined all information to be analyzed. (I don't have this final dashboard due to not working more in the company and confidentiality information) but i will post the idea presented at the beginning.
+
+https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Dist_pr_ej.pbix
+
 
 
 #### Data Analytics in Digital House

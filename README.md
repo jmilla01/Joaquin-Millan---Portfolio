@@ -71,7 +71,9 @@ https://www.linkedin.com/feed/update/urn:li:activity:6787394782198034432/
 #### Data Analytics in Digital House
 I'm gonna post some of my works done during this course.
 
-1. This project was made with some class teammates, where we had to present to the rest of the course and simulate a debate, presenting information about energy and it's features associated focusing our research in Argentina
+1. This project was made with some class teammates, where we had to present to the rest of the course and simulate a debate, presenting information about energy and it's features associated focusing our research in Argentina. In this dashboard we analyzed lot of different data sources, so we could developed and demonstarte the whole story.
+
 https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/TP_DH.pbix
 
-2. 
+2. This dashboard was presented on the course analysing Fifa dataset regarding the Playstation game and the stats.
+

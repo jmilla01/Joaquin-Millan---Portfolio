@@ -69,6 +69,12 @@ https://www.linkedin.com/feed/update/urn:li:activity:6787394782198034432/
 # Works done regarding Data Analysis/ Data Science through courses and work staff.
 I'm going to post relevant works done in courses and in work, to track my progress and diferrent appliances of my data skills.
 
+#### Data Science in Coder House
+
+This project has been created during my Data Science classes in Coderhouse, where i developed a clasification model that predicted if a client would suscribe or not to a term deposit.
+
+https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Project_ds_coder.ipynb
+
 #### Data Analytics in Rocking data
 
 I made this course, while working in Raizen, so i developed a dashboard used to analyze companies information about Sell in (what we sell to our distributors) and Sell out (what our distributors sell to salespoints), this dashboard might have some changes due to confidential reasons. 
@@ -81,7 +87,12 @@ https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Distribudores_a
 
 #### Data Science in Digital House
 
+This dataset is public from Argentina's goverment, regarding it's publiv bikes. The objective of this notebook is to see the movement of the bikes call "Ecobicis",  this way we could acknowledge which where the bike stations that have bigger demands and so we can try for looking a better way to respond for the bike stocks. It shows a model that was created to predict the flow of bikes.
 
+https://user-images.githubusercontent.com/112265208/214741910-8c7ee8f9-4955-4380-b6f5-610cb0707684.png)
+
+
+https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Ecobici.ipynb
 
 #### Business Intelligence Analyst - Pernod Ricard
 

@@ -1,10 +1,9 @@
 # Joaquin Millan Lanhozo --- Portfolio
 
-I have worked in various industries and fields, from different perspectives and with greater or lesser usability of the data, but always analyzing and basing ideas and taking insights with data, making decisions that helped me manage, count and demonstrate results.
+I have worked in various industries from oil and gas to mass market consumer goods, from different perspectives and with varying degrees of data analysis, but always ideating in my roles using insights I uncover from analyzing the data in front of me. These observations led me to make decisions that helped me improve workflows, improve sales tactics, and overall demonstrate growth visually.
 
-As a data scientist, I consider myself a person who is passionate about data and the power to discover patterns to uncover insights and drive business decisions. I've been learning and taking lot of courses to become a Data Scientist. 
+As a data scientist, I consider myself a person who is passionate about data and the power to discover patterns to uncover insights that drive better business decisions. 
 
-I seek to acquire knowledge and add value to an agile and dynamic organization, in which I can develop both professionally and personally.
 
 
 # Portfolio

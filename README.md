@@ -6,7 +6,7 @@ As a data scientist, I consider myself a person who is passionate about data and
 
 
 
-# LinkedIn
+## LinkedIn
 
 linkedin: https://www.linkedin.com/in/jmillanlanhozo/
 

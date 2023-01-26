@@ -1,7 +1,5 @@
 # Joaquin Millan Lanhozo --- Portfolio
 
-Outside of work I am one of seven siblings, and an uncle to six incredible nieces and nephews. In addition to being a proud family man, I enjoy several hobbies, including brain games, photography, padel, and hiking.
-
 I have worked in various industries and fields, from different perspectives and with greater or lesser usability of the data, but always analyzing and basing ideas and taking insights with data, making decisions that helped me manage, count and demonstrate results.
 
 As a data scientist, I consider myself a person who is passionate about data and the power to discover patterns to uncover insights and drive business decisions. I've been learning and taking lot of courses to become a Data Scientist. 

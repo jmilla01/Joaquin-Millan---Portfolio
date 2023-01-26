@@ -14,23 +14,20 @@ linkedin: https://www.linkedin.com/in/jmillanlanhozo/
 
 #### Data Science in Coder House
 
-This project has been created during my Data Science classes in Coderhouse, where i developed a clasification model that predicted if a client would suscribe or not to a term deposit.
+In this project I developed a clasification model that predicted if a client would suscribe or not to a term deposit.
 
 https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Project_ds_coder.ipynb
 
 #### Data Analytics in Rocking data
 
-I made this course, while working in Raizen, so i developed a dashboard used to analyze companies information about Sell in (what we sell to our distributors) and Sell out (what our distributors sell to salespoints), this dashboard might have some changes due to confidential reasons. 
+I  developed a dashboard specifically for my work at Raizen to analyze the company's information about what we sell to our distributors and what our distributors sell to salespoints.
 
-In this project, we got for sell in information our company internal data repository and for sell out an external repository host of information. Regarding sell out information we performed some ETL of data so we could match distributors information to talk the same language between them and with our nomenclature (for example: transformation of distributors SKUs codes to my companies name and information associated to them).
-
-While our companies BI's area report was malfunctioning due to wrong integrated information, numbers where not matching. That's why i developed this dashboard to analyze proper information all together and also because i got on charge of developing new visualizations that helped and encorauged me and our team, to manage relationships with customers with more accurate and efficient information.
+This all started when my company's BI area report was malfunctioning due to unproperly integration of data. I developed this dashboard to solve that problem. I got the sell in information from our company's internal data repository, and for sell out, I used an external repository host for information where it was performed some ETL of data so we could match distributors information to talk the same language as us(for example: transformation of distributors SKUs codes to my companies name and information associated to them).
 
 https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Distribudores_adaptado.pbix
 
 #### Data Science in Digital House
-
-This dataset is public from Argentina's goverment, regarding it's publiv bikes. The objective of this notebook is to see the movement of the bikes call "Ecobicis",  this way we could acknowledge which where the bike stations that have bigger demands and so we can try for looking a better way to respond for the bike stocks. It shows a model that was created to predict the flow of bikes.
+The objective of this notebook is to see the movement of the Argentina's goverment bikes "Ecobicis". We created a model to predict the flow of bikes, this way we could acknowledge which where the bike stations that have bigger demands and so we can try for looking a better way to respond for the bike stocks.
 
 https://user-images.githubusercontent.com/112265208/214741910-8c7ee8f9-4955-4380-b6f5-610cb0707684.png)
 

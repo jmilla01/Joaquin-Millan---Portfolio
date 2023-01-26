@@ -1,6 +1,6 @@
 # Joaquin Millan Lanhozo --- Portfolio
 
-Outside of work, I am one of 7 siblings, very familiar with 6 nephews as well, and raised in Pilar, a city located north of Buenos Aires, Argentina. I am a person who really enjoys sports and spending time with friends. I am passionate about brain games, knowledge, photography and the beauty of nature.
+Outside of work I am one of seven siblings, and an uncle to six incredible nieces and nephews. In addition to being a proud family man, I enjoy several hobbies, including brain games, photography, padel, and hiking.
 
 I have worked in various industries and fields, from different perspectives and with greater or lesser usability of the data, but always analyzing and basing ideas and taking insights with data, making decisions that helped me manage, count and demonstrate results.
 

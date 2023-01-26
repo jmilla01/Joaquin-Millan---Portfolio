@@ -1,6 +1,6 @@
 # Joaquin Millan Lanhozo
 
-I have worked in various industries from oil and gas to mass market consumer goods, from different perspectives and with varying degrees of data analysis, but always ideating in my roles using insights I uncover from analyzing the data in front of me. These observations led me to make decisions that helped me improve workflows, improve sales tactics, and overall demonstrate growth visually.
+I have worked in various industries from $oil and gas to mass market consumer goods, from different perspectives and with varying degrees of data analysis, but always ideating in my roles using insights I uncover from analyzing the data in front of me. These observations led me to make decisions that helped me improve workflows, improve sales tactics, and overall demonstrate growth visually.
 
 As a data scientist, I consider myself a person who is passionate about data and the power to discover patterns to uncover insights that drive better business decisions. 
 
@@ -37,48 +37,41 @@ As a BI Analyst I was in charge of teaching our sales and marketing departments 
 
 https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Induccion_Power_BI.pdf
 
-This dashboard was developed for the BI-EXPORT team, before they didn't had any dashboards, so all their analyses were made in Excel. This dashboard was developed for them so they could manage better their information and using the power of such a good analytical tool such as Power BI. 
-
-This was a project made with a team that involved persons from the relevant areas, the export manager, and IT data engineer, me as a product manager and development of dashboard visualizations. We' ve developed and unite information from diferent sources, made some useful changes to the information that was uploaded on the system, made the connection to Power BI and then created and updated visualizations based on what the export team wanted to see and analyze.
+This dashboard was developed for the BI-EXPORT team, before they didn't had any dashboards, so all their analyses were made in Excel. This dashboard was developed for them so they could manage better their information.
 
 https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/BI_Export_AR.pbix
 
-This dashboard was also created as a new analysis tool for the new team that was divided and created to analyse B2B sales performance. Due to confidentiality and not access to the database i will post a PDF showing some visualizations of the pages developed for them
-
-https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/REPORTE%20B2B.pdf
-
-
-This dashboard has some changes due to confidential information, it was presented as an idea, to show to my bosses, how to analyze our distributors sells to their customers. This then turned into a project of analysing our distributors information, all in one dashboard, where we performed with a bigger team ETL to adapt our distributors information to our companies same language, and then created a big datawarehouse where we had joined all information to be analyzed. (I don't have this final dashboard due to not working more in the company and confidentiality information) but i will post the idea presented at the beginning.
+This dashboard  was presented as an idea, to show to my bosses, how to analyze our distributors sell out information(their sells to their customers) before there was nothing. This then turned into a big project of analysing all of our distributors information, all in one dashboard, where we performed ETL to adapt our distributors information to our companies same language. (I don't have this final dashboard due to not working more in the company and confidentiality information) but i will post the idea presented at the beginning.
 
 https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Dist_pr_ej.pbix
 
 #### Data Analytics in Digital House
 
-1. This project was made with some class teammates, where we had to present to the rest of the course and simulate a debate, presenting information about energy and it's features associated focusing our research in Argentina. In this dashboard we analyzed lot of different data sources, so we could developed and demonstarte the whole story.
+1. This project was made with some class teammates, presenting information about energy and it's features associated focusing our research in Argentina. 
 
 https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/TP_DH.pbix
 
-2. This dashboard was also made on group and presented on the course analysing Fifa dataset regarding the Playstation game and the stats.
+2. This dashboard was presented analyzing Fifa's Playstation game dataset.
 
 https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Fifa_dh.pbix
 
-3. This dashboard was presented to my classmates analyzing a store information.
+3. This dashboard analyzed a store information.
 
 https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Supertienda_DH.pbix
 
-4. This dashboard was made analyzing a dataset from Uber and some features about drivers, where it was needed some KPI's to improve and suggestions to follow up and increase it's revenue.
+4. This dashboard provided from a public a dataset from Uber.
 
 https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Uber_dh.pbix
 
-5. This dashboard was made to analyze causes of layoff in an specific dataset for an HR Department
+5. This dashboard analyzes causes of layoff in an specific dataset provided from an HR Department.
 
 https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/HR_EJEMPLO_DH.pbix
 
-6. This dashboard shows an analysis of goverment bikes, real data of Buenos Aires in 2014.
+6. This dashboard shows an analyzis of goverment bikes in 2014.
 
 https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/BA_ECOBICIO_DESAFIO_DH.pbix
 
-7. This dashboards is from a very know dataset, Adventure works, analyzing it sells performance.
+7. In this dashboard "Adventure works" is analyzed  it sells performance.
 
 https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Adventure_works_dh.pbix
 

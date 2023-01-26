@@ -11,7 +11,6 @@ As a data scientist, I consider myself a person who is passionate about data and
 linkedin: https://www.linkedin.com/in/jmillanlanhozo/
 
 ## Relevant work experience
-I'm going to post relevant works done in courses and in work, to track my progress and diferrent appliances of my data skills.
 
 #### Data Science in Coder House
 

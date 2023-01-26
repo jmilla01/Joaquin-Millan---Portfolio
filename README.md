@@ -27,16 +27,13 @@ This all started when my company's BI area report was malfunctioning due to unpr
 https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Distribudores_adaptado.pbix
 
 #### Data Science in Digital House
-The objective of this notebook is to see the movement of the Argentina's goverment bikes "Ecobicis". We created a model to predict the flow of bikes, this way we could acknowledge which where the bike stations that have bigger demands and so we can try for looking a better way to respond for the bike stocks.
-
-https://user-images.githubusercontent.com/112265208/214741910-8c7ee8f9-4955-4380-b6f5-610cb0707684.png)
-
+The objective of this notebook is to see the movement of the Argentinian's government bikes "Ecobicis". We created a model to predict the flow of bikes, this way we could isolate which bike stations have bigger demand and redistribute supply accordingly.
 
 https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Ecobici.ipynb
 
 #### Business Intelligence Analyst - Pernod Ricard
 
-As a BI Analyst i was on charge of helping users to use information and encourage them to use our developed BI dashboards, for them to based their decisions on data and for them to create and take insights from data. That's why i developed a presentation for them to induce them
+As a BI Analyst I was in charge of teaching our sales and marketing departments to use our developed Power BI dashboards to help them make informed decisions.
 
 https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Induccion_Power_BI.pdf
 

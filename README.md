@@ -38,7 +38,7 @@ Reported P&L, made forecasting and companies budgeting.
 
 In charge of the managing customers, selling Acuvue contact lenses to stores
 
-# Education History
+# Education
 
 #### Data Science in Coder House. May 2022 – Dec 2022
 EDA - Machine learning modelling

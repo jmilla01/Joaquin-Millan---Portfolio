@@ -1,6 +1,6 @@
 # Joaquin Millan Lanhozo
 
-I have worked in various industries from $oil and gas to mass market consumer goods, from different perspectives and with varying degrees of data analysis, but always ideating in my roles using insights I uncover from analyzing the data in front of me. These observations led me to make decisions that helped me improve workflows, improve sales tactics, and overall demonstrate growth visually.
+I have worked in various industries such as medical devices, mass market consumer goods, wine and spirits and oil, from different perspectives and with varying degrees of data analysis, but always ideating in my roles using insights I uncover from analyzing the data in front of me. These observations led me to make decisions that helped me improve workflows, improve sales tactics, and overall demonstrate growth visually.
 
 As a data scientist, I consider myself a person who is passionate about data and the power to discover patterns to uncover insights that drive better business decisions. 
 
